@@ -1,0 +1,15 @@
+C:\Users\op\documents\visual studio 2015\Projects\Spectometer Reader\Spectometer Reader\bin\Release\Spectometer Reader.exe.config
+C:\Users\op\documents\visual studio 2015\Projects\Spectometer Reader\Spectometer Reader\bin\Release\Spectometer Reader.exe.manifest
+C:\Users\op\documents\visual studio 2015\Projects\Spectometer Reader\Spectometer Reader\bin\Release\Spectometer Reader.application
+C:\Users\op\documents\visual studio 2015\Projects\Spectometer Reader\Spectometer Reader\bin\Release\Spectometer Reader.exe
+C:\Users\op\documents\visual studio 2015\Projects\Spectometer Reader\Spectometer Reader\bin\Release\Spectometer Reader.pdb
+C:\Users\op\documents\visual studio 2015\Projects\Spectometer Reader\Spectometer Reader\obj\Release\Spectometer_Reader.MainForm.resources
+C:\Users\op\documents\visual studio 2015\Projects\Spectometer Reader\Spectometer Reader\obj\Release\Spectometer_Reader.Properties.Resources.resources
+C:\Users\op\documents\visual studio 2015\Projects\Spectometer Reader\Spectometer Reader\obj\Release\Spectometer Reader.csproj.GenerateResource.Cache
+C:\Users\op\documents\visual studio 2015\Projects\Spectometer Reader\Spectometer Reader\obj\Release\Spectometer Reader.exe.manifest
+C:\Users\op\documents\visual studio 2015\Projects\Spectometer Reader\Spectometer Reader\obj\Release\Spectometer Reader.application
+C:\Users\op\documents\visual studio 2015\Projects\Spectometer Reader\Spectometer Reader\obj\Release\Spectometer Reader.exe
+C:\Users\op\documents\visual studio 2015\Projects\Spectometer Reader\Spectometer Reader\obj\Release\Spectometer Reader.pdb
+C:\Users\op\documents\visual studio 2015\Projects\Spectometer Reader\Spectometer Reader\obj\Release\Spectometer Reader.csprojResolveAssemblyReference.cache
+C:\Users\op\documents\visual studio 2015\Projects\Spectometer Reader\Spectometer Reader\bin\Release\NationalInstruments.Visa.dll
+C:\Users\op\documents\visual studio 2015\Projects\Spectometer Reader\Spectometer Reader\bin\Release\NationalInstruments.Visa.xml

@@ -1,0 +1,13 @@
+c:\users\op\documents\visual studio 2015\Projects\Spectometer Reader\Spectometer Reader\bin\Debug\Spectometer Reader.exe.config
+c:\users\op\documents\visual studio 2015\Projects\Spectometer Reader\Spectometer Reader\bin\Debug\Spectometer Reader.exe
+c:\users\op\documents\visual studio 2015\Projects\Spectometer Reader\Spectometer Reader\bin\Debug\Spectometer Reader.pdb
+c:\users\op\documents\visual studio 2015\Projects\Spectometer Reader\Spectometer Reader\obj\Debug\Spectometer Reader.csprojResolveAssemblyReference.cache
+c:\users\op\documents\visual studio 2015\Projects\Spectometer Reader\Spectometer Reader\obj\Debug\Spectometer_Reader.Properties.Resources.resources
+c:\users\op\documents\visual studio 2015\Projects\Spectometer Reader\Spectometer Reader\obj\Debug\Spectometer Reader.csproj.GenerateResource.Cache
+c:\users\op\documents\visual studio 2015\Projects\Spectometer Reader\Spectometer Reader\obj\Debug\Spectometer Reader.exe
+c:\users\op\documents\visual studio 2015\Projects\Spectometer Reader\Spectometer Reader\obj\Debug\Spectometer Reader.pdb
+c:\users\op\documents\visual studio 2015\Projects\Spectometer Reader\Spectometer Reader\obj\Debug\Spectometer_Reader.MainForm.resources
+C:\Users\op\documents\visual studio 2015\Projects\Spectometer Reader\Spectometer Reader\bin\Debug\Spectometer Reader.exe.manifest
+C:\Users\op\documents\visual studio 2015\Projects\Spectometer Reader\Spectometer Reader\bin\Debug\Spectometer Reader.application
+C:\Users\op\documents\visual studio 2015\Projects\Spectometer Reader\Spectometer Reader\obj\Debug\Spectometer Reader.exe.manifest
+C:\Users\op\documents\visual studio 2015\Projects\Spectometer Reader\Spectometer Reader\obj\Debug\Spectometer Reader.application
